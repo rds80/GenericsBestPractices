@@ -50,5 +50,10 @@ namespace IntroducingGenerics
         {
             throw new System.NotImplementedException();
         }
+
+        public Student CreateDefault()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

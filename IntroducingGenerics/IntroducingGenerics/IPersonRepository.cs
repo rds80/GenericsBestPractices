@@ -10,5 +10,6 @@ namespace IntroducingGenerics
     {
         IEnumerable<T> Search(string name);
         T Create(Name name);
+        T CreateDefault();
     }
 }
