@@ -1,0 +1,16 @@
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\net5.0\IntroducingGenerics.csproj.AssemblyReference.cache
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\net5.0\IntroducingGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\net5.0\IntroducingGenerics.AssemblyInfoInputs.cache
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\net5.0\IntroducingGenerics.AssemblyInfo.cs
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\net5.0\IntroducingGenerics.csproj.CoreCompileInputs.cache
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\bin\Debug\net5.0\IntroducingGenerics.exe
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\bin\Debug\net5.0\IntroducingGenerics.deps.json
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\bin\Debug\net5.0\IntroducingGenerics.runtimeconfig.json
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\bin\Debug\net5.0\IntroducingGenerics.runtimeconfig.dev.json
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\bin\Debug\net5.0\IntroducingGenerics.dll
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\bin\Debug\net5.0\ref\IntroducingGenerics.dll
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\bin\Debug\net5.0\IntroducingGenerics.pdb
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\net5.0\IntroducingGenerics.dll
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\net5.0\ref\IntroducingGenerics.dll
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\net5.0\IntroducingGenerics.pdb
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\net5.0\IntroducingGenerics.genruntimeconfig.cache

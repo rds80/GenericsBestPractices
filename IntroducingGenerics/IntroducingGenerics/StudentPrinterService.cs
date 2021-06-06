@@ -17,13 +17,14 @@ namespace IntroducingGenerics
 
         public void PrintStudents(int max = 100)
         {
-            var students = _studentRepository.List().ToArray();
+            var students = _studentRepository.List()
+                                             .Take(max);
 
-            Array.Sort(students);
+            //Array.Sort(students);
 
-            for (int i = 0; i < students.Length && i < max; i++)
+            foreach(var student in students)
             {
-                Console.WriteLine(students[i]);
+                Console.WriteLine(student);
             }
         }
     }

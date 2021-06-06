@@ -1,28 +1,35 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace IntroducingGenerics
 {
+    public record Name(string First, string Last);
+
     public class StudentRepository: IRepository<Student>
     {
+        private Name[] _names = new Name[10];
+
+        public StudentRepository()
+        {
+            _names[0] = new("Steve", "Smith");
+            _names[1] = new("Chad", "Smith");
+            _names[2] = new("Ben", "Smith");
+            _names[3] = new("Eric", "Smith");
+            _names[4] = new("Julie", "Lerman");
+            _names[5] = new("David", "Starr");
+            _names[6] = new("Aaron", "Skonnard");
+            _names[7] = new("Aaron", "Stewart");
+            _names[8] = new("Aaron", "Powell");
+            _names[9] = new("Aaron", "Frost");
+        }
+
         public IEnumerable<Student> List()
         {
-            var students = new Student[10];
-            students[0] = new Student("Steve", "Smith");
-            students[1] = new Student("Chad", "Smith");
-            students[2] = new Student("Ben", "Smith");
-            students[3] = new Student("Eric", "Smith");
-            students[4] = new Student("Julie", "Lerman");
-            students[5] = new Student("David", "Starr");
-            students[6] = new Student("Aaron", "Skonnard");
-            students[7] = new Student("Aaron", "Stewart");
-            students[8] = new Student("Aaron", "Powell");
-            students[9] = new Student("Aaron", "Frost");
-
-            return students;
+            int index = 0;
+            while (index < _names.Length)
+            {
+                yield return new Student(_names[index].First, _names[index].Last);
+                index++;
+            }
         }
     }
 }
