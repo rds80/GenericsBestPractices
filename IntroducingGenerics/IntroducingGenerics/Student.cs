@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IntroducingGenerics
 {
-    public class Student:Person, IComparable<Student>
+    public class Student : Person, IComparable<Student>
     {
         public Student(string firstName, string lastName)
         {
@@ -14,6 +14,9 @@ namespace IntroducingGenerics
             LastName = lastName;
         }
 
+        public Student() : this("FirstName", "LastName")
+        { 
+        }
         public override string ToString()
         {
             return $"{FirstName} {LastName}";

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IntroducingGenerics
 {
-    public interface IPersonRepository<T>: IRepository<T> where T: Person, IComparable<T>
+    public interface IPersonRepository<T>: IRepository<T> where T: Person, IComparable<T>, new()
     {
         IEnumerable<T> Search(string name);
         T Create(Name name);

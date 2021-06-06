@@ -48,12 +48,12 @@ namespace IntroducingGenerics
 
         public Student Create(Name name)
         {
-            throw new System.NotImplementedException();
+            return new Student(name.First, name.Last);
         }
 
         public Student CreateDefault()
         {
-            throw new System.NotImplementedException();
+            return new Student();
         }
     }
 }
