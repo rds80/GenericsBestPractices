@@ -8,9 +8,9 @@ namespace IntroducingGenerics
 {
     public class StudentPrinterService
     {
-        private readonly IRepository<Student> _studentRepository;
+        private readonly IPersonRepository<Student> _studentRepository;
 
-        public StudentPrinterService(IRepository<Student> studentRepository)
+        public StudentPrinterService(IPersonRepository<Student> studentRepository)
         {
             _studentRepository = studentRepository;
         }
@@ -20,8 +20,9 @@ namespace IntroducingGenerics
             var students = _studentRepository.SortedList()
                                              .Take(max);
 
-            //Array.Sort(students);
             PrintSmithsToConsole(students);
+            var smiths = _studentRepository.Search("Smith");
+            PrintSmithsToConsole(smiths);
         }
 
         private void PrintSmithsToConsole(IEnumerable<Student> students)

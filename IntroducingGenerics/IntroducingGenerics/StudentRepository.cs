@@ -5,7 +5,7 @@ namespace IntroducingGenerics
 {
     public record Name(string First, string Last);
 
-    public class StudentRepository: IRepository<Student>
+    public class StudentRepository: IPersonRepository<Student>
     {
         private Name[] _names = new Name[10];
 
@@ -38,6 +38,12 @@ namespace IntroducingGenerics
             var students = List().ToList();
             students.Sort();
             return students;
+        }
+
+        public IEnumerable<Student> Search(string name)
+        {
+            return List().Where(student => student.LastName.Contains(name) ||
+                student.FirstName.Contains(name));
         }
     }
 }
