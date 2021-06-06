@@ -8,7 +8,6 @@ namespace IntroducingGenerics
 {
     public class Student: IComparable<Student>
     {
-        public static int studentCounter = 0;
 
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -17,7 +16,6 @@ namespace IntroducingGenerics
         {
             FirstName = firstName;
             LastName = lastName;
-            studentCounter++;
         }
 
         public override string ToString()

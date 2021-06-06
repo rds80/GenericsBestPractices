@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace IntroducingGenerics
 {
@@ -30,6 +31,13 @@ namespace IntroducingGenerics
                 yield return new Student(_names[index].First, _names[index].Last);
                 index++;
             }
+        }
+
+        public IEnumerable<Student> SortedList()
+        {
+            var students = List().ToList();
+            students.Sort();
+            return students;
         }
     }
 }

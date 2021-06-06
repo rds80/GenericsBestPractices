@@ -24,5 +24,10 @@ namespace IntroducingGenerics
 
             return authors;
         }
+
+        public IEnumerable<Author> SortedList()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
