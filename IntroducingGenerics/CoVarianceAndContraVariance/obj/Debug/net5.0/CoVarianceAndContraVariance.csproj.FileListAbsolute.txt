@@ -1,0 +1,16 @@
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\bin\Debug\net5.0\CoVarianceAndContraVariance.exe
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\bin\Debug\net5.0\CoVarianceAndContraVariance.deps.json
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\bin\Debug\net5.0\CoVarianceAndContraVariance.runtimeconfig.json
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\bin\Debug\net5.0\CoVarianceAndContraVariance.runtimeconfig.dev.json
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\bin\Debug\net5.0\CoVarianceAndContraVariance.dll
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\bin\Debug\net5.0\ref\CoVarianceAndContraVariance.dll
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\bin\Debug\net5.0\CoVarianceAndContraVariance.pdb
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\obj\Debug\net5.0\CoVarianceAndContraVariance.csproj.AssemblyReference.cache
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\obj\Debug\net5.0\CoVarianceAndContraVariance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\obj\Debug\net5.0\CoVarianceAndContraVariance.AssemblyInfoInputs.cache
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\obj\Debug\net5.0\CoVarianceAndContraVariance.AssemblyInfo.cs
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\obj\Debug\net5.0\CoVarianceAndContraVariance.csproj.CoreCompileInputs.cache
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\obj\Debug\net5.0\CoVarianceAndContraVariance.dll
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\obj\Debug\net5.0\ref\CoVarianceAndContraVariance.dll
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\obj\Debug\net5.0\CoVarianceAndContraVariance.pdb
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\CoVarianceAndContraVariance\obj\Debug\net5.0\CoVarianceAndContraVariance.genruntimeconfig.cache

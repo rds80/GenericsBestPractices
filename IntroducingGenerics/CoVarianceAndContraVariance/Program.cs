@@ -6,7 +6,9 @@ namespace CoVarianceAndContraVariance
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ReflectionSamples.Execute();
         }
     }
+
+    public record Customer(string firstName, string lastName);
 }
