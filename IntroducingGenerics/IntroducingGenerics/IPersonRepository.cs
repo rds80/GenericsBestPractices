@@ -12,4 +12,11 @@ namespace IntroducingGenerics
         T Create(Name name);
         T CreateDefault();
     }
+
+    public interface IPersonRepository
+    {
+        IEnumerable<T> Search<T>(string name) where T : Person;
+        T Create<T>(Name name) where T : Person;
+        T CreateDefault<T>() where T : Person, new();
+    }
 }

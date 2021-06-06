@@ -23,6 +23,8 @@ namespace IntroducingGenerics
             _names[9] = new("Aaron", "Frost");
         }
 
+        
+
         public IEnumerable<Student> List()
         {
             int index = 0;
