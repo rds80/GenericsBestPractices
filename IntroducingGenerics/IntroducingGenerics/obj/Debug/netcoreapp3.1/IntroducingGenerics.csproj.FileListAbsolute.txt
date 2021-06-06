@@ -1,0 +1,13 @@
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\bin\Debug\netcoreapp3.1\IntroducingGenerics.exe
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\bin\Debug\netcoreapp3.1\IntroducingGenerics.deps.json
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\bin\Debug\netcoreapp3.1\IntroducingGenerics.runtimeconfig.json
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\bin\Debug\netcoreapp3.1\IntroducingGenerics.runtimeconfig.dev.json
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\bin\Debug\netcoreapp3.1\IntroducingGenerics.dll
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\bin\Debug\netcoreapp3.1\IntroducingGenerics.pdb
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\netcoreapp3.1\IntroducingGenerics.csproj.AssemblyReference.cache
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\netcoreapp3.1\IntroducingGenerics.AssemblyInfoInputs.cache
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\netcoreapp3.1\IntroducingGenerics.AssemblyInfo.cs
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\netcoreapp3.1\IntroducingGenerics.csproj.CoreCompileInputs.cache
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\netcoreapp3.1\IntroducingGenerics.dll
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\netcoreapp3.1\IntroducingGenerics.pdb
+C:\Users\rippl\OneDrive\C#\Videos\PluralSight\WorkingWithGenericsAndInterfaces\Tutorial\IntroducingGenerics\IntroducingGenerics\obj\Debug\netcoreapp3.1\IntroducingGenerics.genruntimeconfig.cache
