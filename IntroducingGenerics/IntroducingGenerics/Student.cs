@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace IntroducingGenerics
 {
-    public class Student: IComparable<Student>
+    public class Student:Person, IComparable<Student>
     {
-
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-
         public Student(string firstName, string lastName)
         {
             FirstName = firstName;

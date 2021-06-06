@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace IntroducingGenerics
 {
-    public class Author : IComparable<Author>
+    public class Author : Person, IComparable<Author>
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-
         public Author(string firstName, string lastName)
         {
             FirstName = firstName;
