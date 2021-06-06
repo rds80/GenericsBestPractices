@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace IntroducingGenerics
 {
-    public interface IRepository<T> where T: IComparable<T>
+    public interface IPersonRepository<T>: IRepository<T> where T: Person, IComparable<T>
     {
-        IEnumerable<T> List();
-        IEnumerable<T> SortedList();
+        IEnumerable<T> Search(string name);
     }
 }
