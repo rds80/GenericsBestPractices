@@ -45,5 +45,10 @@ namespace IntroducingGenerics
             return List().Where(student => student.LastName.Contains(name) ||
                 student.FirstName.Contains(name));
         }
+
+        public Student Create(Name name)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
